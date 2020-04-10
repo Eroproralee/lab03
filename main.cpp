@@ -137,6 +137,6 @@ svg_rect(50, 0, bins[0] * 10, 30);
 svg_rect(0, 0, 100, 200);
 svg_rect(0, 0, 100, 200, "red");
 svg_rect(0, 0, 100, 200, "blue", "#aaffaa");
-
+cout<<endl;
 return 0;
 }
